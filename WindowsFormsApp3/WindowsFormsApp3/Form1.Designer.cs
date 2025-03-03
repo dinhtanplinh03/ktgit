@@ -30,6 +30,9 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.txtusername = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtpassword = new System.Windows.Forms.TextBox();
+            this.btnlogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -49,11 +52,39 @@
             this.txtusername.Size = new System.Drawing.Size(212, 22);
             this.txtusername.TabIndex = 1;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(102, 123);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(66, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "password";
+            // 
+            // txtpassword
+            // 
+            this.txtpassword.Location = new System.Drawing.Point(199, 120);
+            this.txtpassword.Name = "txtpassword";
+            this.txtpassword.Size = new System.Drawing.Size(212, 22);
+            this.txtpassword.TabIndex = 3;
+            // 
+            // btnlogin
+            // 
+            this.btnlogin.Location = new System.Drawing.Point(148, 194);
+            this.btnlogin.Name = "btnlogin";
+            this.btnlogin.Size = new System.Drawing.Size(75, 23);
+            this.btnlogin.TabIndex = 4;
+            this.btnlogin.Text = "login";
+            this.btnlogin.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnlogin);
+            this.Controls.Add(this.txtpassword);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.txtusername);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -67,6 +98,9 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtusername;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtpassword;
+        private System.Windows.Forms.Button btnlogin;
     }
 }
 
