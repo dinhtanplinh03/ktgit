@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\",
+  "WorkspaceRootPath": "C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\tomal\\desktop\\ktgit\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\phuon\\onedrive\\m\u00E1y t\u00EDnh\\ktgit\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C0F69F-A903-44AB-BB2D-EE67AC815194}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
-              "ToolTip": "C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp3\\Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBUAAAAAAAAA",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T06:09:17.71Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
-              "ToolTip": "C:\\Users\\tomal\\Desktop\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\phuon\\OneDrive\\M\u00E1y t\u00EDnh\\ktgit\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T05:53:01.494Z",
